@@ -3,7 +3,7 @@ cockade: hat ornament
 dragoon: mounted military unit
 eventide: evening
 farrier: someone who shoes horses
-wocket: small gate, as in "strong wicket"
+wicket: small gate
 noisome: objectionable
 embrasure: opening for a cannon
 unwonted: unusual
